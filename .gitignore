@@ -1,0 +1,17 @@
+## local machine files stored in this dir
+*.pdf
+*.epub
+*.png
+*.jpg
+*.gif
+*.odt
+*.ppt
+
+## MacOS ##
+*.DS_Store
+
+# Log file
+*.log
+
+# bin contains Arduino CLI tool
+/bin
